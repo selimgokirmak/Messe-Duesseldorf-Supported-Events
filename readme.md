@@ -78,3 +78,5 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [wire Duesseldorf 2024 Exhibitor List](https://www.wire-tradefair.com/vis/v1/en/search?ticket=g_u_e_s_t&_query=&f_type=profile)
 
 - [THERMPROCESS 2023 Exhibitor List](https://www.thermprocess-online.com/vis/v1/en/search?ticket=g_u_e_s_t&_query=&f_type=profile)
+
+- [drupa 2024 Exhibitor List](https://www.drupa.com/vis/v1/en/search?ticket=g_u_e_s_t&_query=&f_type=profile)
