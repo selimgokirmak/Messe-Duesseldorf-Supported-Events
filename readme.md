@@ -9,6 +9,11 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 Supports multiple Messe Duesseldorf trade fair websites with a consistent HTML structure.
 
 
+## 🔎 Testing Exhibitor List URLs for FREE
+
+Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+
+
 ## 👇 Check My Other Exhibitor List Scrapers
 
 - [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-list-scraper)
@@ -16,6 +21,8 @@ Supports multiple Messe Duesseldorf trade fair websites with a consistent HTML s
 - [Messe Frankfurt Exhibitor List Scraper](https://apify.com/skython/messe-frankfurt-exhibitor-list-scraper)
 
 - [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper)
+
+- [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
 
 ## 🎯 Supported Website Structure
@@ -28,14 +35,10 @@ This scraper is designed to extract data from exhibitor directories with the sam
 
 ✅ Exhibitor listing page format should be the same as the sample websites below.
 
-💡 **If you are unsure whether your target event website is supported,** you can run a test with the exhibitor listing page URL — if no results are returned, the website is not compatible.
-
 
 ## 🌐 Supported Messe Duesseldorf Events (Exhibitor Lists)
 
 **Note:** *The following list includes Messe Duesseldorf exhibitor directory URLs that have been tested so far. Other Messe Duesseldorf or different events with the same website structure may also be supported.*
-
-**Full list of supported events:** [**View on GitHub**](https://github.com/selimgokirmak/Messe-Duesseldorf-Supported-Events)
 
 - [A+A 2025 Exhibitor List](https://www.aplusa-online.com/vis/v1/en/search?ticket=g_u_e_s_t&_query=&f_type=profile)
 
