@@ -24,6 +24,10 @@ Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/
 
 - [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
+- [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
+
+- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -32,6 +36,8 @@ This scraper is designed to extract data from exhibitor directories with the sam
 ### ❓ How to identify a supported website:
 
 ✅ Exhibitor listing page URL usually contains `/vis/v1/`.
+
+- An example event URL: https://www.caravan-salon.com/vis/v1/en/search?ticket=g_u_e_s_t&_query=&f_type=profile
 
 ✅ Exhibitor listing page format should be the same as the sample websites below.
 
