@@ -1,12 +1,12 @@
-## 🤖 [Messe Duesseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
+## 🤖 [Messe Düsseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
 
-Simple web scraper for extracting exhibitor data from trade show exhibitor lists provided by **Messe Duesseldorf**. 
+Simple web scraper for extracting exhibitor data from trade show exhibitor lists provided by **Messe Düsseldorf**. 
 
 Easily scrape company profiles including **company details, websites, social media links, product categories, contact persons and more**. 
 
 Ideal for **B2B lead generation, market research, event networking, and competitive analysis**. 
 
-Supports multiple **Messe Duesseldorf** trade fair websites with a consistent HTML structure.
+Supports multiple **Messe Düsseldorf** trade fair websites with a consistent HTML structure.
 
 
 ## 🔎 Testing Exhibitor List URLs for FREE
@@ -30,11 +30,11 @@ Supports multiple **Messe Duesseldorf** trade fair websites with a consistent HT
 
 - [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
 
-- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+- [Messe München Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
 
-- [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+- [Nürnberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
 
 - [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
 
@@ -54,10 +54,12 @@ Supports multiple **Messe Duesseldorf** trade fair websites with a consistent HT
 
 - [A2Z Events Exhibitor List Scraper](https://apify.com/skython/a2z-events-exhibitor-list-scraper)
 
+- [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
-- This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Messe Duesseldorf exhibitor lists below.
+- This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Messe Düsseldorf exhibitor lists below.
 
 - Exhibitor listing page URL usually contains `/vis/v1/`.
 
@@ -66,9 +68,9 @@ Supports multiple **Messe Duesseldorf** trade fair websites with a consistent HT
 - If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor.
 
 
-## 🌐 Supported Messe Duesseldorf Events (Exhibitor Lists)
+## 🌐 Supported Messe Düsseldorf Events (Exhibitor Lists)
 
-**Note:** *The following list includes Messe Duesseldorf exhibitor directory URLs that have been tested so far. Other Messe Duesseldorf or different events with the same website structure may also be supported.*
+**Note:** *The following list includes Messe Düsseldorf exhibitor directory URLs that have been tested so far. Other Messe Düsseldorf or different events with the same website structure may also be supported.*
 
 - [A+A 2025 Exhibitor List – aplusa-online.com](https://www.aplusa-online.com/vis/v1/en/search?ticket=g_u_e_s_t&_query=&f_type=profile)
 
