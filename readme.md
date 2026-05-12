@@ -56,12 +56,16 @@ Supports multiple **Messe Düsseldorf** trade fair websites with a consistent HT
 
 - [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
 
+- [Newfront Exhibitor List Scraper](https://apify.com/skython/newfront-exhibitor-list-scraper)
+
+- [Goeshow Exhibitor List Scraper](https://apify.com/skython/goeshow-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
 - This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Messe Düsseldorf exhibitor lists below.
 
-- Exhibitor listing page URL usually contains `/vis/v1/`.
+- Exhibitor listing page URL should contain `/vis/v1/`.
 
 - Take a look at some of the event websites from the below list. Your event website URL might be in that list.
 
